@@ -6,8 +6,9 @@ function twoSum(nums: number[], target: number): number[] {
 
         if(nums[i] in dictionary) {
             return [dictionary[nums[i]], i]
-        } else {
-            dictionary[result] = i
-        }
+        } 
+        dictionary[result] = i
     }
+
+    return []
 };
