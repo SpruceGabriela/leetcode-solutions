@@ -3,9 +3,8 @@ function maximumSubarraySum(nums: number[], k: number): number {
     let maxSum = 0
     let set = new Set<number>()
     let left = 0
-    let right = 0
 
-    while(right < nums.length) {
+    for(let right = 0; right < nums.length; right++) {
         currentSum += nums[right]
 
         while(set.has(nums[right])){
@@ -24,8 +23,6 @@ function maximumSubarraySum(nums: number[], k: number): number {
             set.delete(nums[left])
             left++
         }
-
-        right ++
     }
 
     return maxSum
