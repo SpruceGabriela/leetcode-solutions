@@ -9,6 +9,7 @@ A collection of solved LeetCode questions
 | [0209-minimum-size-subarray-sum](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0792-binary-search) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of solved LeetCode questions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
