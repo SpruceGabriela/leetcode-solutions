@@ -14,3 +14,5 @@ function findLHS(nums: number[]): number {
 
     return maxLength
 };
+
+//melhorar eficiencia
