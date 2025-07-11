@@ -1,17 +1,22 @@
 function containsNearbyDuplicate(nums: number[], k: number): boolean {
-    const window = new Set<number>()
+   let left = 0
+   let right = 0
+   let set = new Set<number>();
 
-    for(let i = 0; i < nums.length; i++) {
-        if(window.has(nums[i])) {
-            return true
+   while(right < nums.length) {
+        const char = nums[right]
+
+        while(set.has(char)) {
+            if(right - left <= k) {
+                return true
+            }
+
+            set.delete(nums[left])
+            left++
         }
+        set.add(nums[right])
+        right++
+   }
 
-        window.add(nums[i])
-
-        if(window.size > k) {
-            window.delete(nums[i - k])
-        }
-    }
-
-    return false
+   return false
 };
