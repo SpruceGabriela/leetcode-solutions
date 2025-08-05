@@ -12,6 +12,7 @@ A collection of solved LeetCode questions
 | [0594-longest-harmonious-subsequence](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0792-binary-search) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of solved LeetCode questions
 | [0594-longest-harmonious-subsequence](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -67,4 +69,5 @@ A collection of solved LeetCode questions
 | ------- |
 | [0217-contains-duplicate](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
