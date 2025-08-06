@@ -1,19 +1,16 @@
 function minimumDifference(nums: number[], k: number): number {
-    nums.sort((a, b) => a - b)
+    if(k === 1) return 0
 
+    nums.sort((a, b) => a - b);
     let min = Infinity;
-    let i = 0;
+    
+    for(let i = 0; i <= nums.length - k; i++){
+        const diff = nums[i + k - 1] - nums[i]
 
-    for(let j = 0; j < nums.length; j++) {
-        if(j - i + 1 > k) {
-            i++
+        if(diff < min) {
+            min = diff
         }
-
-        if(j - i + 1 === k) {
-            min = Math.min(min, (nums[j] - nums[i]))
-        }
-
     }
-
-    return min
+    
+    return min;
 };
