@@ -36,6 +36,7 @@ A collection of solved LeetCode questions
 | [0567-permutation-in-string](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -45,6 +46,7 @@ A collection of solved LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -70,4 +72,8 @@ A collection of solved LeetCode questions
 | [0217-contains-duplicate](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Math
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/SpruceGabriela/leetcode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
